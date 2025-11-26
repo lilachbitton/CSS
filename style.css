@@ -1,0 +1,6 @@
+body {
+  background-color: #7825f5;
+}
+input[type="text"] {
+  border-radius: 10px;
+}
